@@ -1,4 +1,4 @@
-package ru;
+package ru.helloworld;
 
 import static org.junit.Assert.assertEquals;
 
